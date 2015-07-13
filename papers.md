@@ -49,7 +49,7 @@ Papers regarding the behavior of groups.
    "[Group Identity and Social Preferences](https://www.aeaweb.org/articles.php?doi=10.1257/aer.99.1.431),"
    American Economic Review 99(1), 431-457.
 
-An interesting iest about players' rationality.
+An interesting iest about players' rationality, utilizing "ring-games"
 0. T. Kneeland(2015).
    "[Testing Higher-Order Rationality](https://www.econometricsociety.org/publications/econometrica/journal-materials/forthcoming-papers),"
    Forthcoming in Econometrica
