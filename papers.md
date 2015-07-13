@@ -50,7 +50,7 @@ Papers regarding the behavior of groups.
    American Economic Review 99(1), 431-457.
 
 An interesting iest about players' rationality.
-0. T. Kneeland(2015)
+0. T. Kneeland(2015).
    "[Testing Higher-Order Rationality](https://www.econometricsociety.org/publications/econometrica/journal-materials/forthcoming-papers),"
    Forthcoming in Econometrica
 
