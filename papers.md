@@ -42,7 +42,7 @@ Papers regarding the behavior of groups.
 ([Nice Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
 
 0. G. Charness, R. Luca. and R. Aldo(2007).
-   "[Individual Behavior and Group Membership(https://www.aeaweb.org/articles.php?doi=10.1257/aer.97.4.1340),"
+   "[Individual Behavior and Group Membership](https://www.aeaweb.org/articles.php?doi=10.1257/aer.97.4.1340),"
    American Economic Review 97(4), 1340-1352.
 
 0. Y. Chen and S. X. Li (2009).
