@@ -50,11 +50,11 @@
    "[Testing Higher-Order Rationality](http://terri.microeconomics.ca/research/hor.pdf),"
    Forthcoming in Econometrica ([Supplement](https://www.econometricsociety.org/content/supplement-identifying-higher-order-rationality))
 
+* [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
+
 Some comments(by Yamagishi)
 
 7, 8: Papers regarding the behavior of groups.
 ([Nice Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
 
 9: An interesting test about players' rationality.
-
-* [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
