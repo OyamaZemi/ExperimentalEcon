@@ -38,4 +38,23 @@
    Econometrica 82, 1615-1670.
    ([Supplement 1](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection-0), [Supplement 2](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection))
 
+0. G. Charness, R. Luca. and R. Aldo(2007).
+   "[Individual Behavior and Group Membership](https://www.aeaweb.org/articles.php?doi=10.1257/aer.97.4.1340),"
+   American Economic Review 97(4), 1340-1352.
+
+0. Y. Chen and S. X. Li (2009).
+   "[Group Identity and Social Preferences](https://www.aeaweb.org/articles.php?doi=10.1257/aer.99.1.431),"
+   American Economic Review 99(1), 431-457.
+
+0. T. Kneeland(2015).
+   "[Identifying Higher-Order Rationality](http://terri.microeconomics.ca/research/hor.pdf),"
+   Forthcoming in Econometrica ([Supplement](https://www.econometricsociety.org/content/supplement-identifying-higher-order-rationality))
+
 * [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
+
+Some comments(by Yamagishi)
+
+7, 8: Papers regarding the behavior of groups.
+([Nice Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
+
+9: An interesting test about players' rationality.
