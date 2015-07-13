@@ -47,7 +47,7 @@
    American Economic Review 99(1), 431-457.
 
 0. T. Kneeland(2015).
-   "[Testing Higher-Order Rationality](http://terri.microeconomics.ca/research/hor.pdf),"
+   "[Identifying Higher-Order Rationality](http://terri.microeconomics.ca/research/hor.pdf),"
    Forthcoming in Econometrica ([Supplement](https://www.econometricsociety.org/content/supplement-identifying-higher-order-rationality))
 
 * [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
