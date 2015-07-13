@@ -39,7 +39,7 @@
    ([Supplement 1](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection-0), [Supplement 2](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection))
 
 Papers regarding the behavior of groups.
-([Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
+([Nice Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
 
 0. G. Charness, R. Luca. and R. Aldo(2007).
    "[Individual Behavior and Group Membership(https://www.aeaweb.org/articles.php?doi=10.1257/aer.97.4.1340),"
