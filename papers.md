@@ -51,6 +51,7 @@
    Forthcoming in Econometrica ([Supplement](https://www.econometricsociety.org/content/supplement-identifying-higher-order-rationality))
 
 Some comments(by Yamagishi)
+
 7, 8: Papers regarding the behavior of groups.
 ([Nice Survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157))
 
