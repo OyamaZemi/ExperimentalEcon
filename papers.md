@@ -39,7 +39,7 @@
    ([Supplement 1](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection-0),
    [Supplement 2](https://www.econometricsociety.org/content/supplement-experimental-games-networks-underpinnings-behavior-and-equilibrium-selection))
 
-0. G. Charness, R. Luca, and R. Aldo(2007).
+0. G. Charness, R. Luca, and R. Aldo (2007).
    "[Individual Behavior and Group Membership](https://www.aeaweb.org/articles.php?doi=10.1257/aer.97.4.1340),"
    American Economic Review 97, 1340-1352.
 
@@ -54,11 +54,11 @@
 
 * [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
 
-Some comments(by Yamagishi)
+Some comments (by Yamagishi)
 
 * Papers regarding the behavior of groups
   ([survey](https://www.aeaweb.org/articles.php?doi=10.1257/jep.26.3.157)):
-   Charness, Luca, and Aldo(2007), Chen and Li (2009)
+   Charness, Luca, and Aldo (2007), Chen and Li (2009)
 
 * An interesting test about players' rationality:
   Kneeland (2015)
