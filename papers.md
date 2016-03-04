@@ -52,6 +52,10 @@
    forthcoming in Econometrica.
    ([Supplement](https://www.econometricsociety.org/content/supplement-identifying-higher-order-rationality))
 
+0. R. Selten, Reinhard and T. Chmura (2008).
+   "[Stationary Concepts for Experimental 2x2-Games](https://www.aeaweb.org/articles.php?doi=10.1257/aer.98.3.938),"
+   American Economic Review 98, 938-66.
+
 * [Papers and data/instructions by Charles A. Holt](http://people.virginia.edu/~cah2k/datapage.html)
 
 Some comments (by Yamagishi)
