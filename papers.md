@@ -66,3 +66,17 @@ Some comments (by Yamagishi)
 
 * An interesting test about players' rationality:
   Kneeland (2015)
+
+
+## Matching
+
+0. J. Paisa and Á. Pintér (2008).
+   "[School choice and information: An experimental study on matching mechanisms](http://www.sciencedirect.com/science/article/pii/S0899825608000286),"
+   Games and Economic Behavior 64, 303-328.
+
+0. F. Klijn, J. Pais, and M. Vorsatz (2013).
+   "[Preference intensities and risk aversion in school choice: a laboratory experiment](http://link.springer.com/article/10.1007%2Fs10683-012-9329-5),"
+   Experimental Economics 16, 1-22.
+
+0. C. R. Featherstonea and M. Niederl (2014),
+   "[Improving on Strategy-proof School Choice Mechanisms: An Experimental Investigation](http://assets.wharton.upenn.edu/~claytonf/IncInfo14-02-01-2014.pdf)."
