@@ -80,3 +80,8 @@ Some comments (by Yamagishi)
 
 0. C. R. Featherstonea and M. Niederl (2014),
    "[Improving on Strategy-proof School Choice Mechanisms: An Experimental Investigation](http://assets.wharton.upenn.edu/~claytonf/IncInfo14-02-01-2014.pdf)."
+
+0. F. Echenique, A. J. Wilson, and L. Yariv (2016).
+   "[Clearinghouses for two-sided matching: An experimental study](http://qeconomics.org/ojs/index.php/qe/article/view/374),"
+   Quantitative Economics 7, 449-482.  
+   (Reference リストに matching 実験の論文が多数載っているのでそれも参照のこと)
